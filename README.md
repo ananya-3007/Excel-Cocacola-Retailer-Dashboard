@@ -23,3 +23,7 @@ It also provides a  clear comparison of Sales (2022 vs 2023), highlights perform
 •Compared brand performance across multiple regions using slicers.
 
 This project improved my expertise in building interactive Excel dashboards and strengthened my ability to transform raw sales data into meaningful business insights.
+
+## 🖼 Dashboard Preview
+
+![Sales Dashboard](cocacola_retailer_dashboard.jpeg)
