@@ -1,11 +1,11 @@
 # 📊 COCA-COLA USA RETAILER SALES DASHBOARD
 
-📌 Project Overview
+## 📌 Project Overview
 
 This is an interactive Coca-Cola USA Retailer Sales Dashboard built using Microsoft Excel to monitor and analyze sales performance across beverage brands, retailers, and regions.
 It also provides a  clear comparison of Sales (2022 vs 2023), highlights performance variance across years and tracks the overall profitability using structured KPIs.
 
-🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used
 • Microsoft Excel
 • Pivot Tables
 • Pivot Charts
@@ -16,7 +16,7 @@ It also provides a  clear comparison of Sales (2022 vs 2023), highlights perform
 • Conditional Formatting (Data Bars)
 • Excel 365 Dashboard Features
 
-📈 Key Insights
+## 📈 Key Insights
 •Identified top-performing beverage brand based on the sales growth.
 •Analyzed retailer-wise contribution to total revenue.
 •Evaluated year-over-year sales growth using variance analysis.
