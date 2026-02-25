@@ -1,4 +1,4 @@
-📊 Coca-Cola USA Retailer Sales Dashboard
+📊 COCA-COLA USA RETAILER SALES DASHBOARD
 
 📌 Project Overview
 
